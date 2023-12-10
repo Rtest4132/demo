@@ -7,6 +7,7 @@ public class first {
 		System.out.println("changes");
 		System.out.println("changes");
 		System.out.println("commit changes");
+		System.out.println("commit changes");
 	}
 
 }
